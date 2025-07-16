@@ -1,1 +1,16 @@
 
+#EXTM3U
+#EXTINF:-1 tvg-name="Canal 13",Canal 13
+https://mdstrm.com/live-stream-playlist/5c6ddf97b579f0160790c6cd.m3u8
+#EXTINF:-1 tvg-name="T13 en Vivo",T13 en Vivo
+https://mdstrm.com/live-stream-playlist/5e7e5dc24af547084bf668c3.m3u8
+#EXTINF:-1 tvg-name="TVN",TVN
+https://livestreamcdn.net:444/TVNHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Canal 24 Horas",Canal 24 Horas
+https://mdstrm.com/live-stream-playlist/5e96d9cd59f6dc0835f1df71.m3u8
+#EXTINF:-1 tvg-name="Chilevisión",Chilevisión
+https://unlimited1-us.dps.live/chv/chv.smil/chunklist_b4608000.m3u8
+#EXTINF:-1 tvg-name="La Red",La Red
+https://unlimited1-cl.dps.live/lared/lared.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-name="CNN Chile",CNN Chile
+https://unlimited1-us.dps.live/cnn/cnn.smil/chunklist_b4608000.m3u8
